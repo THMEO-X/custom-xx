@@ -7,7 +7,7 @@ function rpc(client, config) {
         .setApplicationId(cfg.APPLICATION_ID)
         .setType("PLAYING")
         .setName("học là trính")
-        .setDetails("sớm thôi trong 5 tháng")
+        .setDetails("")
         .setStartTimestamp(Date.now())
         .setAssetsLargeImage(cfg.LARGE_IMAGE_URL)
         .setAssetsLargeText("OwO Farm Bot Stable")
