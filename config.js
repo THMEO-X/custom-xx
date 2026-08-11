@@ -4,7 +4,7 @@ module.exports = {
   APPLICATION_ID: "1460999009421230090",
 
   LARGE_IMAGE_URL:
-    "https://cdn.discordapp.com/avatars/1390674997777010770/0b55fd397f1bf25834fc3c19586f2c4a.png?size=4096",
+    "https://cdn.discordapp.com/attachments/1336313310542561300/1342117509847056464/image0.gif?size=4096",
 
   BUTTON_1_LABEL: "website",
   BUTTON_1_URL: "https://gem-50fe.onrender.com/",
